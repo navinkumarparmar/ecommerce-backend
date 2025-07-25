@@ -69,7 +69,7 @@ Base URL: http://localhost:3001/api
 
 ## Postman Collection
 
-API testing ke liye, aap meri Postman collection ko yahan se import kar sakte hain:
+import postman
 
 - [Import Postman Collection](https://www.postman.com/developers-8673/tech/collection/ydouuhp/e-commerce)
 
